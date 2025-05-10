@@ -1,0 +1,40 @@
+{
+  "funding": {
+    "platform_name": "Open Source Project Funding",
+    "platform_url": "https://mj-ahmad.github.io/fund-transfer-system/",
+    "version": "1.0.0",
+    "project_id": "open-source-funding",
+    "funding_options": [
+      {
+        "type": "direct_transfer",
+        "name": "Direct Bank Transfer",
+        "description": "Transfer funds directly to the project's bank account",
+        "account_id": "YOUR_ACCOUNT_NUMBER",
+        "account_name": "YOUR_NAME",
+        "bank_name": "YOUR_BANK_NAME",
+        "swift_code": "YOUR_SWIFT_CODE",
+        "routing_number": "YOUR_ROUTING_NUMBER",
+        "currencies": ["USD", "BDT"]
+      },
+      {
+        "type": "stripe",
+        "name": "Credit/Debit Card",
+        "description": "Make a payment using a credit or debit card via Stripe",
+        "payment_url": "https://yourwebsite.com/fund/project_1",
+        "currencies": ["USD", "BDT"]
+      },
+      {
+        "type": "paypal",
+        "name": "PayPal",
+        "description": "Make a payment using PayPal",
+        "payment_url": "https://yourwebsite.com/fund/project_1",
+        "currencies": ["USD"]
+      }
+    ],
+    "contact": {
+      "name": "MJ AHMAD",
+      "email": "mjahmad2024@outlook.com",
+      "website": "https://tallybd.vercel.app"
+    }
+  }
+}

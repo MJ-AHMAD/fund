@@ -1,0 +1,106 @@
+2025-05-10 14:04:51,330 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.76:5000
+2025-05-10 14:04:51,331 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-10 14:04:51,365 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-10 14:04:54,798 - werkzeug - WARNING -  * Debugger is active!
+2025-05-10 14:04:54,835 - werkzeug - INFO -  * Debugger PIN: 210-370-660
+2025-05-10 14:05:37,195 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 14:05:37] "GET / HTTP/1.1" 200 -
+2025-05-10 14:05:37,897 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 14:05:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-10 14:06:29,439 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 14:06:29] "GET /fund/project_1 HTTP/1.1" 200 -
+2025-05-10 14:06:55,841 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 14:06:55] "GET /dashboard HTTP/1.1" 200 -
+2025-05-10 14:10:04,516 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\__init__.py', reloading
+2025-05-10 14:10:04,516 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\__init__.py', reloading
+2025-05-10 14:10:04,516 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\__main__.py', reloading
+2025-05-10 14:10:04,516 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\__main__.py', reloading
+2025-05-10 14:10:04,531 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\arbiter.py', reloading
+2025-05-10 14:10:04,533 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\arbiter.py', reloading
+2025-05-10 14:10:04,534 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\config.py', reloading
+2025-05-10 14:10:04,534 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\config.py', reloading
+2025-05-10 14:10:04,534 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\debug.py', reloading
+2025-05-10 14:10:04,534 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\debug.py', reloading
+2025-05-10 14:10:04,534 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\errors.py', reloading
+2025-05-10 14:10:04,534 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\errors.py', reloading
+2025-05-10 14:10:04,534 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\glogging.py', reloading
+2025-05-10 14:10:04,549 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\glogging.py', reloading
+2025-05-10 14:10:04,549 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\pidfile.py', reloading
+2025-05-10 14:10:04,549 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\pidfile.py', reloading
+2025-05-10 14:10:04,549 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\reloader.py', reloading
+2025-05-10 14:10:04,549 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\reloader.py', reloading
+2025-05-10 14:10:04,549 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\sock.py', reloading
+2025-05-10 14:10:04,549 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\sock.py', reloading
+2025-05-10 14:10:04,549 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\systemd.py', reloading
+2025-05-10 14:10:04,549 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\systemd.py', reloading
+2025-05-10 14:10:04,562 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\util.py', reloading
+2025-05-10 14:10:04,565 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\util.py', reloading
+2025-05-10 14:10:04,565 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\app\\__init__.py', reloading
+2025-05-10 14:10:04,565 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\app\\__init__.py', reloading
+2025-05-10 14:10:04,565 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\app\\__init__.py', reloading
+2025-05-10 14:10:04,565 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\app\\base.py', reloading
+2025-05-10 14:10:04,565 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\app\\base.py', reloading
+2025-05-10 14:10:04,565 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\app\\pasterapp.py', reloading
+2025-05-10 14:10:04,565 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\app\\pasterapp.py', reloading
+2025-05-10 14:10:04,580 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\app\\wsgiapp.py', reloading
+2025-05-10 14:10:04,582 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\app\\wsgiapp.py', reloading
+2025-05-10 14:10:04,582 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\http\\__init__.py', reloading
+2025-05-10 14:10:04,582 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\http\\__init__.py', reloading
+2025-05-10 14:10:04,582 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\http\\__init__.py', reloading
+2025-05-10 14:10:04,582 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\http\\body.py', reloading
+2025-05-10 14:10:04,582 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\http\\body.py', reloading
+2025-05-10 14:10:04,582 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\http\\errors.py', reloading
+2025-05-10 14:10:04,582 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\http\\errors.py', reloading
+2025-05-10 14:10:04,582 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\http\\message.py', reloading
+2025-05-10 14:10:04,597 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\http\\message.py', reloading
+2025-05-10 14:10:04,599 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\http\\parser.py', reloading
+2025-05-10 14:10:04,599 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\http\\parser.py', reloading
+2025-05-10 14:10:04,599 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\http\\unreader.py', reloading
+2025-05-10 14:10:04,599 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\http\\unreader.py', reloading
+2025-05-10 14:10:04,599 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\http\\wsgi.py', reloading
+2025-05-10 14:10:04,599 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\http\\wsgi.py', reloading
+2025-05-10 14:10:04,599 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\instrument\\statsd.py', reloading
+2025-05-10 14:10:04,599 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\instrument\\__init__.py', reloading
+2025-05-10 14:10:04,599 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\instrument\\__init__.py', reloading
+2025-05-10 14:10:04,599 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\instrument\\statsd.py', reloading
+2025-05-10 14:10:04,613 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\instrument\\statsd.py', reloading
+2025-05-10 14:10:04,615 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\workers\\base.py', reloading
+2025-05-10 14:10:04,615 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\workers\\base_async.py', reloading
+2025-05-10 14:10:04,615 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\workers\\__init__.py', reloading
+2025-05-10 14:10:04,615 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\workers\\__init__.py', reloading
+2025-05-10 14:10:04,615 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\workers\\__init__.py', reloading
+2025-05-10 14:10:04,615 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\workers\\base.py', reloading
+2025-05-10 14:10:04,615 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\workers\\base.py', reloading
+2025-05-10 14:10:04,615 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\workers\\base_async.py', reloading
+2025-05-10 14:10:04,615 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\workers\\base_async.py', reloading
+2025-05-10 14:10:04,615 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\workers\\geventlet.py', reloading
+2025-05-10 14:10:04,615 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\workers\\geventlet.py', reloading
+2025-05-10 14:10:04,630 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\workers\\ggevent.py', reloading
+2025-05-10 14:10:04,632 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\workers\\ggevent.py', reloading
+2025-05-10 14:10:04,632 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\workers\\gthread.py', reloading
+2025-05-10 14:10:04,632 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\workers\\gthread.py', reloading
+2025-05-10 14:10:04,632 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\workers\\gtornado.py', reloading
+2025-05-10 14:10:04,632 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\workers\\gtornado.py', reloading
+2025-05-10 14:10:04,632 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\workers\\sync.py', reloading
+2025-05-10 14:10:04,632 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\workers\\sync.py', reloading
+2025-05-10 14:10:04,632 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\workers\\workertmp.py', reloading
+2025-05-10 14:10:04,632 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Lib\\site-packages\\gunicorn\\workers\\workertmp.py', reloading
+2025-05-10 14:10:05,048 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-10 14:10:09,250 - werkzeug - WARNING -  * Debugger is active!
+2025-05-10 14:10:09,266 - werkzeug - INFO -  * Debugger PIN: 210-370-660
+2025-05-10 14:10:52,135 - werkzeug - INFO -  * Detected change in 'C:\\AllyGo\\fund-transfer-system\\wsgi.py', reloading
+2025-05-10 14:10:53,079 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-10 14:10:57,649 - werkzeug - WARNING -  * Debugger is active!
+2025-05-10 14:10:57,655 - werkzeug - INFO -  * Debugger PIN: 210-370-660
+2025-05-10 14:11:04,948 - werkzeug - INFO -  * Detected change in 'C:\\AllyGo\\fund-transfer-system\\wsgi.py', reloading
+2025-05-10 14:11:06,111 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-10 14:11:09,696 - werkzeug - WARNING -  * Debugger is active!
+2025-05-10 14:11:09,696 - werkzeug - INFO -  * Debugger PIN: 210-370-660
+2025-05-10 14:14:13,905 - werkzeug - INFO -  * Detected change in 'C:\\AllyGo\\fund-transfer-system\\wsgi.py', reloading
+2025-05-10 14:14:14,485 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-10 14:14:18,620 - werkzeug - WARNING -  * Debugger is active!
+2025-05-10 14:14:18,635 - werkzeug - INFO -  * Debugger PIN: 210-370-660
+2025-05-10 14:26:45,037 - werkzeug - INFO -  * Detected change in 'C:\\AllyGo\\fund-transfer-system\\add_initial_funds.py', reloading
+2025-05-10 14:26:45,623 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-10 14:26:49,715 - werkzeug - WARNING -  * Debugger is active!
+2025-05-10 14:26:49,728 - werkzeug - INFO -  * Debugger PIN: 210-370-660
+2025-05-10 14:27:01,669 - werkzeug - INFO -  * Detected change in 'C:\\AllyGo\\fund-transfer-system\\add_initial_funds.py', reloading

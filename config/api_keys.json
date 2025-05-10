@@ -1,0 +1,10 @@
+{
+  "bangladesh_bank_1": "YOUR_BANK_1_API_KEY",
+  "bangladesh_bank_2": "YOUR_BANK_2_API_KEY",
+  "usd_account": "YOUR_USD_BANK_API_KEY",
+  "stripe": "YOUR_STRIPE_SECRET_KEY",
+  "stripe_publishable": "YOUR_STRIPE_PUBLISHABLE_KEY",
+  "paypal_client_id": "YOUR_PAYPAL_CLIENT_ID",
+  "paypal_secret": "YOUR_PAYPAL_SECRET",
+  "currency_converter": "YOUR_CURRENCY_CONVERTER_API_KEY"
+}

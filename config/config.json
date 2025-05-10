@@ -1,0 +1,82 @@
+{
+  "system": {
+    "name": "Open Source Project Funding System",
+    "version": "1.0.0",
+    "environment": "production"
+  },
+  "banks": {
+    "bangladesh_bank_1": {
+      "name": "Your Bangladesh Bank 1",
+      "api_endpoint": "https://api.yourbank1.com/v1/transfers",
+      "account_number": "YOUR_ACCOUNT_NUMBER_1",
+      "account_name": "YOUR_NAME",
+      "swift_code": "BANK1SWIFT",
+      "routing_number": "123456789",
+      "timeout": 30
+    },
+    "bangladesh_bank_2": {
+      "name": "Your Bangladesh Bank 2",
+      "api_endpoint": "https://api.yourbank2.com/api/fund-transfers",
+      "account_number": "YOUR_ACCOUNT_NUMBER_2",
+      "account_name": "YOUR_NAME",
+      "swift_code": "BANK2SWIFT",
+      "routing_number": "987654321",
+      "timeout": 45
+    },
+    "usd_account": {
+      "name": "Your USD Bank",
+      "api_endpoint": "https://api.usdbank.com/transfers",
+      "account_number": "YOUR_USD_ACCOUNT_NUMBER",
+      "account_name": "YOUR_NAME",
+      "swift_code": "USDBANKSWIFT",
+      "routing_number": "456789123",
+      "timeout": 30
+    }
+  },
+  "payment_processors": {
+    "stripe": {
+      "name": "Stripe",
+      "api_endpoint": "https://api.stripe.com/v1",
+      "webhook_endpoint": "/webhooks/stripe",
+      "success_url": "https://yourwebsite.com/success",
+      "cancel_url": "https://yourwebsite.com/cancel"
+    },
+    "paypal": {
+      "name": "PayPal",
+      "api_endpoint": "https://api.paypal.com",
+      "webhook_endpoint": "/webhooks/paypal",
+      "success_url": "https://yourwebsite.com/success",
+      "cancel_url": "https://yourwebsite.com/cancel"
+    }
+  },
+  "projects": {
+    "project_1": {
+      "name": "Open Source Project 1",
+      "description": "Description of your first open source project",
+      "funding_goal": 5000,
+      "currency": "USD"
+    },
+    "project_2": {
+      "name": "Open Source Project 2",
+      "description": "Description of your second open source project",
+      "funding_goal": 3000,
+      "currency": "USD"
+    },
+    "project_3": {
+      "name": "Open Source Project 3",
+      "description": "Description of your third open source project",
+      "funding_goal": 2000,
+      "currency": "USD"
+    }
+  },
+  "currencies": {
+    "USD": {
+      "name": "US Dollar",
+      "symbol": "$"
+    },
+    "BDT": {
+      "name": "Bangladeshi Taka",
+      "symbol": "৳"
+    }
+  }
+}
