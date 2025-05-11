@@ -104,3 +104,49 @@
 2025-05-10 14:26:49,715 - werkzeug - WARNING -  * Debugger is active!
 2025-05-10 14:26:49,728 - werkzeug - INFO -  * Debugger PIN: 210-370-660
 2025-05-10 14:27:01,669 - werkzeug - INFO -  * Detected change in 'C:\\AllyGo\\fund-transfer-system\\add_initial_funds.py', reloading
+2025-05-10 14:27:02,198 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-10 14:27:06,201 - werkzeug - WARNING -  * Debugger is active!
+2025-05-10 14:27:06,210 - werkzeug - INFO -  * Debugger PIN: 210-370-660
+2025-05-10 14:43:39,295 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 14:43:39] "GET / HTTP/1.1" 200 -
+2025-05-10 14:43:43,667 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 14:43:43] "GET / HTTP/1.1" 200 -
+2025-05-10 14:45:55,573 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 14:45:55] "GET / HTTP/1.1" 200 -
+2025-05-10 14:52:26,526 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 14:52:26] "GET / HTTP/1.1" 200 -
+2025-05-10 15:21:27,250 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 15:21:27] "GET / HTTP/1.1" 200 -
+2025-05-10 15:21:32,220 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 15:21:32] "GET /fund/project_3 HTTP/1.1" 200 -
+2025-05-10 15:22:53,689 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 15:22:53] "[33mGET /api/v1/fund/stripe/?amount=5&name=Ahmad%20Dabbag&email=afrojjafar201@gmail.com&message= HTTP/1.1[0m" 404 -
+2025-05-10 15:24:10,860 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 15:24:10] "GET /fund/project_3 HTTP/1.1" 200 -
+2025-05-10 15:28:59,263 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 15:28:59] "GET / HTTP/1.1" 200 -
+2025-05-10 15:29:36,894 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 15:29:36] "GET / HTTP/1.1" 200 -
+2025-05-10 15:52:19,794 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 15:52:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-10 16:27:00,710 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Scripts\\conda-script.py', reloading
+2025-05-10 16:27:02,489 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-10 16:27:06,433 - werkzeug - WARNING -  * Debugger is active!
+2025-05-10 16:27:06,449 - werkzeug - INFO -  * Debugger PIN: 210-370-660
+2025-05-10 17:28:47,021 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Scripts\\conda-script.py', reloading
+2025-05-10 17:28:59,460 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-10 17:29:13,917 - werkzeug - WARNING -  * Debugger is active!
+2025-05-10 17:29:13,941 - werkzeug - INFO -  * Debugger PIN: 210-370-660
+2025-05-10 20:05:29,114 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Scripts\\conda-script.py', reloading
+2025-05-10 20:05:29,768 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-10 20:05:34,809 - werkzeug - WARNING -  * Debugger is active!
+2025-05-10 20:05:34,809 - werkzeug - INFO -  * Debugger PIN: 210-370-660
+2025-05-11 05:01:33,738 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Scripts\\conda-script.py', reloading
+2025-05-11 05:01:36,317 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-11 05:01:42,230 - werkzeug - WARNING -  * Debugger is active!
+2025-05-11 05:01:42,241 - werkzeug - INFO -  * Debugger PIN: 210-370-660
+2025-05-11 06:48:44,803 - werkzeug - INFO -  * Detected change in 'C:\\Users\\coxs-ally\\anaconda3\\Scripts\\conda-script.py', reloading
+2025-05-11 06:48:46,485 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-11 06:48:51,428 - werkzeug - WARNING -  * Debugger is active!
+2025-05-11 06:48:51,436 - werkzeug - INFO -  * Debugger PIN: 210-370-660
+2025-05-11 08:40:35,685 - werkzeug - INFO - 192.168.100.76 - - [11/May/2025 08:40:35] "GET / HTTP/1.1" 200 -
+2025-05-11 08:40:36,392 - werkzeug - INFO - 192.168.100.76 - - [11/May/2025 08:40:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-11 08:40:37,912 - werkzeug - INFO - 192.168.100.76 - - [11/May/2025 08:40:37] "GET / HTTP/1.1" 200 -
+2025-05-11 08:41:26,892 - werkzeug - INFO - 192.168.100.76 - - [11/May/2025 08:41:26] "GET / HTTP/1.1" 200 -
+2025-05-11 08:41:43,299 - werkzeug - INFO - 192.168.100.76 - - [11/May/2025 08:41:43] "GET /fund/project_1 HTTP/1.1" 200 -
+2025-05-11 08:43:26,210 - werkzeug - INFO - 192.168.100.69 - - [11/May/2025 08:43:26] "GET / HTTP/1.1" 200 -
+2025-05-11 08:43:29,677 - werkzeug - INFO - 192.168.100.69 - - [11/May/2025 08:43:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-11 09:08:17,625 - werkzeug - INFO - 192.168.100.76 - - [11/May/2025 09:08:17] "GET /fund/project_1 HTTP/1.1" 200 -
+2025-05-11 09:42:11,102 - werkzeug - INFO - 192.168.100.69 - - [11/May/2025 09:42:11] "GET / HTTP/1.1" 200 -
+2025-05-11 09:42:13,072 - werkzeug - INFO - 192.168.100.69 - - [11/May/2025 09:42:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-11 13:31:15,002 - werkzeug - INFO - 127.0.0.1 - - [11/May/2025 13:31:15] "GET / HTTP/1.1" 200 -
+2025-05-11 13:31:16,260 - werkzeug - INFO - 127.0.0.1 - - [11/May/2025 13:31:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
